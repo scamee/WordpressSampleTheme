@@ -1,0 +1,2 @@
+# WordpressSampleTheme
+Wordpressの練習用に作成
